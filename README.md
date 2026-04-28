@@ -70,7 +70,8 @@ Se emplearon los siguientes intervalos para determinar la calidad del agua:
 
 #### Fuentes
 Describe the relationship between dissolved oxygen and BOD. . . | Filo. (2025, 1 septiembre). Filo. https://askfilo.com/user-question-answers-smart-solutions/describe-the-relationship-between-dissolved-oxygen-and-bod-3337363932313533
-Fuente: Sensor, R. (2026, 9 febrero). La conexión entre los niveles de pH y la calidad del agua. https://www.rikasensor.com/es/a-the-connection-between-ph-levels-and-water-quality.html
+India | Datos del ODS 6.3.2. (2023). https://www.sdg6data.org/es/country-or-area/India
+Sensor, R. (2026, 9 febrero). La conexión entre los niveles de pH y la calidad del agua. https://www.rikasensor.com/es/a-the-connection-between-ph-levels-and-water-quality.html
 
 ### 🔸 Software necesario
 
