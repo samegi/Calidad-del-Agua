@@ -54,7 +54,7 @@ Autor: Sara Mejia Giraldo
 ### 7.3. Compilación y Entrenamiento del Modelo
 ### 7.4. Evaluación del Modelo Predictivo
 
-### Importante
+#### Importante
 Se emplearon los siguientes intervalos para determinar la calidad del agua:
 **Intervalos de Índices para WQI**
 - Excelente: agua dulce ***WQI = [0.0 , 25.0]***
@@ -71,3 +71,51 @@ Se emplearon los siguientes intervalos para determinar la calidad del agua:
 #### Fuentes
 Describe the relationship between dissolved oxygen and BOD. . . | Filo. (2025, 1 septiembre). Filo. https://askfilo.com/user-question-answers-smart-solutions/describe-the-relationship-between-dissolved-oxygen-and-bod-3337363932313533
 Fuente: Sensor, R. (2026, 9 febrero). La conexión entre los niveles de pH y la calidad del agua. https://www.rikasensor.com/es/a-the-connection-between-ph-levels-and-water-quality.html
+
+### 🔸 Software necesario
+
+- Python **3.8 o superior**
+- Apache Spark **3.x**
+- Java **8 o 11** (necesario para Spark)
+- Jupyter Notebook o Jupyter Lab
+
+---
+
+### 🔧 Configuración de Apache Spark
+
+1. Descargar Apache Spark desde:  
+   👉 https://spark.apache.org/downloads.html
+
+2. Configurar variables de entorno:
+
+### En Linux / Mac:
+```bash
+export SPARK_HOME=/ruta/a/spark
+export PATH=$SPARK_HOME/bin:$PATH
+```
+
+### En Windows:
+- Configurar `SPARK_HOME`
+- Agregar `SPARK_HOME/bin` al `PATH`
+
+---
+
+### ▶️ Ejecución del proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+```
+
+2. Abrir el notebook:
+
+```bash
+jupyter notebook
+```
+
+3. Ejecutar el archivo `.ipynb`
+
+---
+
